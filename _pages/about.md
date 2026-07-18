@@ -17,14 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm a Computer Science PhD student at at the School of Computing and Information Systems, Singapore Management University (SMU), supervised by Prof.Yunshan Ma. Before that, I obtained my bachelor's and master's degrees in Artificial Intelligence from Shandong University (SDU), China.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include generative recommendation and computational fashion. My work explores multimodal generation and preference alignment to improve the personalization, compatibility, diversity, and interpretability of recommender systems, with a particular interest in computational fashion.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.07*: &nbsp;🎉🎉 I'm awarded the SMU Presidential Doctoral Fellowship in Academic Year 2026/2027.
+- *2026.04*: &nbsp;🎉🎉 One paper accepted by SIGIR'26.
+- *2025.11*: &nbsp;🎉🎉 I served as the volunteer In the 6th ACM International Conference on AI in Finance (ICAIF'25).
+- *2025.08*: &nbsp;🎉🎉 I started my PhD studies in School of Computing and Information Systems, Singapore Management University.
+- *2025.08*: &nbsp;🎉🎉 One paper accepted by the ACM Multimedia'25 Demo Track.
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by SIGIR'25.
+
 
 # 📝 Publications 
 
