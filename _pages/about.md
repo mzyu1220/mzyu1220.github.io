@@ -28,7 +28,6 @@ My research interests include generative recommendation and computational fashio
 - *2025.11*: &nbsp;🎉🎉 I served as the volunteer In the 6th ACM International Conference on AI in Finance (ICAIF'25).
 - *2025.08*: &nbsp;🎉🎉 I started my PhD studies in School of Computing and Information Systems, Singapore Management University.
 - *2025.08*: &nbsp;🎉🎉 One paper accepted by the ACM Multimedia'25 Demo Track.
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by SIGIR'25.
 
 
 # 📝 Publications 
