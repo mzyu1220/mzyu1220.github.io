@@ -33,7 +33,7 @@ My research interests include generative recommendation and computational fashio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dual-Diffusional Generative Fashion Recommendation]
@@ -44,9 +44,14 @@ Mingzhe Yu, Lei Wu, Qianru Sun, **Yunshan Ma**
 
 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Dual-Diffusional Generative Fashion Recommendation](https://dl.acm.org/doi/10.1145/3805712.3809557?__cf_chl_rt_tk=i7H_HvqislNwZlZqiUo8E9H91Ai5pwbgVwyrXwPDiCg-1784377998-1.0.1.1-EEuTEKM4svS7.nwZLqQYGSePMu1MeX3ESs7NOx6jyg8), Mingzhe Yu, Lei Wu, Qianru Sun, **Yunshan Ma**, **SIGIR 2026**.
+- [FashionDPO: Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization](https://dl.acm.org/doi/pdf/10.1145/3726302.3729976), Mingzhe Yu, Yunshan Ma, **Lei Wu**, Changshuo Wang, Xue Li, Lei Meng, **SIGIR 2025**.
+- [Smart fitting room: A one-stop framework for matching-aware virtual try-on](https://dl.acm.org/doi/epdf/10.1145/3652583.3658064), Mingzhe Yu, Yunshan Ma, **Lei Wu**, Kai Cheng, Xue Li, Lei Meng, Tat-Seng Chua, **ICMR 2024**.
+- [LayoutDM: Precision Multi-Scale Diffusion for Layout-to-Image](https://ieeexplore.ieee.org/abstract/document/10688052), Mingzhe Yu, **Lei Wu**, Changshuo Wang, Lei Meng, Xiangxu Meng, **ICME 2024**.
+- [InstantAS: Minimum Coverage Sampling for Arbitrary-Size Image Generation](https://dl.acm.org/doi/10.1145/3664647.3681185), Changshuo Wang, Mingzhe Yu, **Lei Wu**, Lei Meng, Xiang Li, Xiangxu Meng, **MM 2024**
+- [ArtTypo: Multi-Level Controlled Artistic Typography with Iterative Feedback](https://ieeexplore.ieee.org/abstract/document/11208994), Kaiyue Liu, **Lei Wu**, Mingzhe Yu, Xiaole Liu, Yajie Xu, Xiangxu Meng, **ICME 2025**.
 
 # 🎖 Honors and Awards
 - Singapore Management University 2026 Presidential Doctoral Fellowship
