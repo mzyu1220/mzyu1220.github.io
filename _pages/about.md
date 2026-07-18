@@ -59,9 +59,11 @@ Mingzhe Yu, Lei Wu, Qianru Sun, **Yunshan Ma**
 - Shandong University 2024 Outstanding Graduate
 
 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - now*, Singapore Management University, Ph.D. in Computer Science
+- *2022.09 - 2025.06*, Shandong University, M.Eng. in Artificial Intelligence
+- *2018.09 - 2022.06*, Shandong University, B.Eng. in Software Engineering (Artificial Intelligence Class)
+
+
 
 
