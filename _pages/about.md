@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Computer Science PhD student at at the School of Computing and Information Systems, Singapore Management University (SMU), supervised by Prof.Yunshan Ma. Before that, I obtained my bachelor's and master's degrees in Artificial Intelligence from Shandong University (SDU), China.
+I'm a Computer Science PhD student at at the School of Computing and Information Systems, Singapore Management University (SMU), supervised by [Prof.Yunshan Ma](https://mysbupt.github.io/). Before that, I obtained my bachelor's and master's degrees in Artificial Intelligence from Shandong University (SDU), China.
 
 My research interests include generative recommendation and computational fashion. My work explores multimodal generation and preference alignment to improve the personalization, compatibility, diversity, and interpretability of recommender systems, with a particular interest in computational fashion.
 
