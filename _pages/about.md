@@ -36,7 +36,7 @@ My research interests include generative recommendation and computational fashio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2026</div><img src='images/' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dual-Diffusional Generative Fashion Recommendation]
+[Dual-Diffusional Generative Fashion Recommendation]
 (https://dl.acm.org/doi/10.1145/3805712.3809557?__cf_chl_rt_tk=i7H_HvqislNwZlZqiUo8E9H91Ai5pwbgVwyrXwPDiCg-1784377998-1.0.1.1-EEuTEKM4svS7.nwZLqQYGSePMu1MeX3ESs7NOx6jyg8)
 
 Mingzhe Yu, Lei Wu, Qianru Sun, **Yunshan Ma**
